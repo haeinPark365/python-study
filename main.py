@@ -5,7 +5,7 @@ Again, the code is broken, you need to create 4 functions.
   - update_word: Update a word inside of the dict.
   - delete_from_dict: Delete a word from the dict. 
 
-All this functions should check for errors, follow the comments to see all cases you need to cover.
+All this functions should check for errors, follow the comments to see all cases you need to cover. 
 
 There should be NO ERRORS from Python in the console.
 """
